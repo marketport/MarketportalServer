@@ -1,6 +1,8 @@
 <?php
 //Testing the commits
 require_once '../config/common.php';
+//Another test
+//sample commit
 
 $module = @$_REQUEST['module'];
 $action = @$_REQUEST['action'];
